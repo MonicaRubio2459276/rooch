@@ -12,3 +12,5 @@ struct GlobalStorage {
 ```
 
 从结构上讲，全局存储是一个[森林（forest）](https://en.wikipedia.org/wiki/Tree_(graph_theory))，这个森林由以账户[地址（`address`）](./address.md)为根的树组成。每个地址可以存储[资源（resource）](./structs-and-resources.md)数据和[模块（module）](./modules-and-scripts.md)代码。如上面的伪代码所示，每个地址（`address`）最多可以存储一个给定类型的资源值，最多可以存储一个给定名称的模块。
+
+<!-- Auto-update: 2025-10-07T01:54:07.805905 -->
