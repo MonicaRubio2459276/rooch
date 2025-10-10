@@ -83,3 +83,5 @@ rooch-fish/
 - Add social features (team, guild)
 - Host regular events and competitions
 - Continuously optimize the stamina system balance
+
+<!-- Auto-update: 2025-10-10T20:23:25.008623 -->
